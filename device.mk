@@ -13,6 +13,9 @@ $(call inherit-product-if-exists, vendor/xiaomi/dipper/dipper-vendor.mk)
 TARGET_SCREEN_HEIGHT := 2248
 TARGET_SCREEN_WIDTH := 1080
 
+# GoogleCamera
+$(call inherit-product, packages/apps/GoogleCameraMod/xiaomi-sdm845/config.mk)
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
