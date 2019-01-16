@@ -1,21 +1,13 @@
 [
   {
-    "remote": "github",
-    "repository": "Hlcpereiradevice_xiaomi_sdm845-common",
-    "target_path": "device/xiaomi/sdm845-common",
-    "branch": "pie"
+    "repository": "device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common"
   },
   {
     "remote":      "github",
     "repository":  "Hlcpereira/kernel_xiaomi_sdm845",
-    "target_path": "kernel/xiaomi/sdm845",
+    "target_path": "kernel/xiaomi/dipper",
     "branch":      "P-KernelX"
-  },
-  {
-    "remote":      "gitlab",
-    "repository":  "Hlcpereira/vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch":      "pie"
   },
   {
     "repository": "packages_apps_Playground",
