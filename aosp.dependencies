@@ -7,7 +7,7 @@
     "remote":      "github",
     "repository":  "Hlcpereira/kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/dipper",
-    "branch":      "P-KernelX"
+    "branch":      "Pepper-pie"
   },
   {
     "repository": "packages_apps_Playground",
