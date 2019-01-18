@@ -14,6 +14,7 @@ TARGET_OTA_ASSERT_DEVICE := dipper
 
 # Display
 TARGET_USES_COLOR_METADATA := true
+TARGET_SCREEN_DENSITY := 440
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/dipper
