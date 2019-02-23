@@ -1,2 +1,2 @@
-# HIDL manifest
-/system/etc/manifest\.xml    u:object_r:vendor_configs_file:s0
+# NFC config
+/system/etc/nfc/libnfc-nxp\.conf u:object_r:vendor_file:s0

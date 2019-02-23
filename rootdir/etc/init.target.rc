@@ -1,2 +1,2 @@
 on init
-    mount none /system/etc/manifest.xml /vendor/etc/vintf/manifest.xml bind
+    mount none /system/etc/nfc/libnfc-nxp.conf /vendor/etc/libnfc-nxp.conf bind
