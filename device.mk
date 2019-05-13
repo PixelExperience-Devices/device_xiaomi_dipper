@@ -13,10 +13,6 @@ $(call inherit-product-if-exists, vendor/xiaomi/dipper/dipper-vendor.mk)
 TARGET_SCREEN_HEIGHT := 2248
 TARGET_SCREEN_WIDTH := 1080
 
-# GoogleCamera
-PRODUCT_PACKAGES += \
-    GoogleCameraMod
-
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
@@ -42,6 +38,9 @@ PRODUCT_PACKAGES += \
 # Device init scripts
 PRODUCT_PACKAGES += \
     init.target.rc
+
+# GoogleCamera
+$(call inherit-product, packages/apps/GoogleCameraMod/config.mk)
 
 # Input
 PRODUCT_COPY_FILES += \
