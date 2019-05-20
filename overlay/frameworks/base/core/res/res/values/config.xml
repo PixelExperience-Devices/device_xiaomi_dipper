@@ -741,4 +741,7 @@
     <!-- Whether device has a physical display cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
 
+    <!-- Whether device has oled display -->
+    <bool name="config_hasOledDisplay">true</bool>
+
 </resources>
