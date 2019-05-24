@@ -19,7 +19,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Playground
 PRODUCT_PACKAGES += \
-  Playground
+  PlaygroundMod
 
 # Properties
 -include $(LOCAL_PATH)/device-props.mk
