@@ -1,7 +1,8 @@
 [
   {
     "repository": "device_xiaomi_sdm845-common",
-    "target_path": "device/xiaomi/sdm845-common"
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "pie-caf"
   },
   {
     "remote":      "github",
