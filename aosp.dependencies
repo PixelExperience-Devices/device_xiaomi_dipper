@@ -5,10 +5,9 @@
     "branch": "pie-caf"
   },
   {
-    "remote":      "github",
-    "repository":  "Hlcpereira/kernel_xiaomi_sdm845",
+    "repository":  "kernel_xiaomi_dipper",
     "target_path": "kernel/xiaomi/dipper",
-    "branch":      "Pepper-pie"
+    "branch":      "pie"
   },
   {
     "repository": "packages_apps_Playground",
