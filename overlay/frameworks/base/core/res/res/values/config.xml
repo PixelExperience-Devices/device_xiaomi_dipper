@@ -730,4 +730,7 @@
 
     <!-- Should we filter any display modes which are unampped? -->
     <bool name="config_filterDisplayModes">true</bool>
+
+    <!-- Whether device has oled display -->
+    <bool name="config_hasOledDisplay">true</bool>
 </resources>
