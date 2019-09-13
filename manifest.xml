@@ -67,11 +67,11 @@
         </interface>
     </hal>
     <hal format="hidl">
-        <name>vendor.nxp.nxpese</name>
+        <name>vendor.nxp.hardware.nfc</name>
         <transport>hwbinder</transport>
         <version>1.0</version>
         <interface>
-            <name>INxpEse</name>
+            <name>INqNfc</name>
             <instance>default</instance>
         </interface>
     </hal>

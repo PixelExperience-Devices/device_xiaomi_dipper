@@ -1,2 +1,0 @@
-allow hal_nfc_default nxpese_hwservice:hwservice_manager find;
-add_hwservice(hal_nfc_default, nxpnfc_hwservice)
