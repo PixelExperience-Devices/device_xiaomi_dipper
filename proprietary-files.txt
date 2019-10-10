@@ -218,7 +218,7 @@ vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 # GNSS
 vendor/bin/ignss_1_1
 vendor/bin/gps.cer
-vendor/bin/glgps
+vendor/bin/glgps|dd69eb4ca79c5cc28e262b4615df8dc5
 vendor/bin/lhd
 vendor/etc/gpsconfig.xml
 vendor/etc/gps.conf
