@@ -112,4 +112,5 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Wallpapers
 PRODUCT_PACKAGES += \
-    WallpapersBReel2018
+    WallpapersBReel2019
+
