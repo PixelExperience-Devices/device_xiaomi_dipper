@@ -15,9 +15,6 @@ $(call inherit-product-if-exists, vendor/xiaomi/dipper/dipper-vendor.mk)
 TARGET_SCREEN_HEIGHT := 2248
 TARGET_SCREEN_WIDTH := 1080
 
-# GoogleCamera
-$(call inherit-product, packages/apps/GoogleCameraMod/xiaomi-sdm845/config.mk)
-
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
@@ -107,6 +104,38 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     vendor/nxp/opensource/pn5xx
 
-# Wallpapers
+# other apps
 PRODUCT_PACKAGES += \
-    PixelLiveWallpaperPrebuilt
+    via \
+    gboard \
+    gcam
+
+#put ur gcam to packages/apps/gcam
+
+# AOSP apps
+PRODUCT_PACKAGES += \
+    WallpaperPicker \
+    messaging \
+    WAPPushManager \
+    WallpaperPicker \
+    Browser2 \
+    Calendar \
+    Camera2 \
+    Contacts \
+    DeskClock \
+    Email \
+    Gallery2 \
+    LatinIME \
+    Launcher3QuickStep \
+    Music \
+    OneTimeInitializer \
+    Provision \
+    QuickSearchBox \
+    Settings \
+    SettingsIntelligence \
+    StorageManager \
+    CarrierConfig \
+    Dialer \
+    EmergencyInfo \
+    StorageManager \
+    DocumentsUI

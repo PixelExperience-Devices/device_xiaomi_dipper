@@ -14,4 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_dipper.mk
+    $(LOCAL_DIR)/derp_dipper.mk
+
+COMMON_LUNCH_CHOICES := \
+derp_dipper-user \
+derp_dipper-userdebug \
+derp_dipper-eng
