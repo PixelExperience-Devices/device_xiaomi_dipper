@@ -4,6 +4,9 @@ persist.camera.sat.fallback.dist.d=5
 persist.camera.sat.fallback.luxindex=405
 persist.camera.sat.fallback.lux.d=20
 
+# Face Unlock
+ro.face.moto_unlock_service.cam_id=5
+
 # Display density
 ro.sf.lcd_density=440
 
