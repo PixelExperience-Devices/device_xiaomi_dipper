@@ -10,6 +10,12 @@
       "branch": "ten"
    },
    {
+      "repository":  "vendor_xiaomi_dipper",
+      "target_path": "vendor/xiaomi/dipper",
+      "branch": "ten",
+      "remote": "pixel-devices-bitbucket"
+   },
+   {
       "repository": "packages_apps_GoogleCameraMod",
       "target_path": "packages/apps/GoogleCameraMod",
       "branch": "ten",
