@@ -8,7 +8,6 @@ $(call inherit-product, device/xiaomi/dipper/device.mk)
 
 # Inherit some common PixelExperience stuff.
 TARGET_GAPPS_ARCH := arm64
-TARGET_INCLUDE_WIFI_EXT := true
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
