@@ -19,7 +19,7 @@
       "repository": "packages_apps_GoogleCameraMod",
       "target_path": "packages/apps/GoogleCameraMod",
       "branch": "ten",
-      "remote": "pixel-gitlab"
+      "remote": "pixel-devices-bitbucket"
    },
    {
       "repository": "packages_apps_PixelLiveWallpaper",
