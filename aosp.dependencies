@@ -16,12 +16,6 @@
       "remote": "pixel-devices-bitbucket"
    },
    {
-      "repository": "packages_apps_GoogleCameraMod",
-      "target_path": "packages/apps/GoogleCameraMod",
-      "branch": "ten",
-      "remote": "pixel-devices-bitbucket"
-   },
-   {
       "repository": "packages_apps_PixelLiveWallpaper",
       "target_path": "packages/apps/PixelLiveWallpaper",
       "branch": "ten",
