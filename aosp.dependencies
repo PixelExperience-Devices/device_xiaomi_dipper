@@ -13,7 +13,7 @@
       "repository":  "vendor_xiaomi_dipper",
       "target_path": "vendor/xiaomi/dipper",
       "branch": "ten",
-      "remote": "pixel-devices-bitbucket"
+      "remote": "pixel-devices-blobs"
    },
    {
       "repository": "packages_apps_PixelLiveWallpaper",
