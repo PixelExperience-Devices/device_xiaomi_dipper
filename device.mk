@@ -109,6 +109,9 @@ PRODUCT_COPY_FILES += \
 
 # NQ Client
 PRODUCT_PACKAGES += \
+    jcos_nq_client \
+    ls_nq_client \
+    se_nq_extn_client \
     libchrome.vendor
 
 # PocketMode
