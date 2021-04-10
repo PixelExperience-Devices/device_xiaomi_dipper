@@ -239,11 +239,11 @@ vendor/lib/libkeymasterutils.so
 vendor/firmware/libpn553_rec.so
 vendor/lib/libpn553_fw.so
 
-# Secure element - from LA.UM.9.8.r1-02700-SDM710.0
-vendor/bin/hw/vendor.qti.secure_element@1.2-service|0ff5b6f1c8de459a22695f135696a9f1b9c842da
-vendor/etc/init/vendor.qti.secure_element@1.2-service.rc|cb8e44a67709a5d9c2f0544058d79eb9f6faad7b
-vendor/lib/android.hardware.secure_element@1.0-impl.so|0ba58cd0f84ed42cb0dbbb72ca22761d936183b3
-vendor/lib64/android.hardware.secure_element@1.0-impl.so|d113128b1a3ab3fe1f2eb6dd51f6416c332f3263
+# Secure element - from pyxis - RKQ1.200826.002/21.3.31
+vendor/bin/hw/vendor.qti.secure_element@1.0-service|48621dda1de283dcf0f5c93f0d17bcd53f3f2072
+vendor/etc/init/vendor.qti.secure_element@1.0-service.rc|14796c45011ad0d4735e0f3c9dbc646e6af205aa
+vendor/lib/hw/android.hardware.secure_element@1.0-impl.so|e4f0c5062a449ce5c1b2ceedc922249fc8a01af2
+vendor/lib64/hw/android.hardware.secure_element@1.0-impl.so|89b58b5dbc92ab33bbc0132dff343a8a5c13a93b
 
 # Sensors
 vendor/lib64/sensors.ssc.so
