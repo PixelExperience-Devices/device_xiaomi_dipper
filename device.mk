@@ -93,6 +93,10 @@ PRODUCT_PACKAGES += \
     android.hardware.nfc@1.2-service \
     NfcNci \
     Tag \
+    android.hardware.secure_element@1.1 \
+    android.hardware.secure_element@1.1.vendor \
+    android.hardware.secure_element@1.2 \
+    android.hardware.secure_element@1.2.vendor \
     android.hardware.secure_element@1.0-service
 
 PRODUCT_COPY_FILES += \
