@@ -29,4 +29,7 @@
     <!-- Location on the screen of the center of the physical volume up/down buttons. -->
     <dimen name="physical_volume_up_button_center_screen_location_y">485px</dimen>
     <dimen name="physical_volume_down_button_center_screen_location_y">625px</dimen>
+
+    <!-- StatusBar burn-in protection -->
+    <bool name="config_statusBarBurnInProtection">true</bool>
 </resources>
