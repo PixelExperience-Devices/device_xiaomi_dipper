@@ -563,4 +563,16 @@
     <path name="camcorder-dmic">
         <path name="handset-dmic-dual-adc" />
     </path>
+
+    <path name="audio-record">
+        <ctl name="MultiMedia1 Mixer SLIM_0_TX" value="1" />
+        <ctl name="DEC7 Volume" value="96"/>
+        <ctl name="DEC8 Volume" value="96"/>
+    </path>
+
+    <path name="audio-record-voip">
+        <ctl name="MultiMedia10 Mixer SLIM_0_TX" value="1" />
+        <ctl name="DEC7 Volume" value="96"/>
+        <ctl name="DEC8 Volume" value="96"/>
+    </path>
 </mixer>

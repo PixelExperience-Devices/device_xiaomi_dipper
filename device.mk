@@ -122,6 +122,10 @@ PRODUCT_PACKAGES += \
     se_nq_extn_client \
     libchrome.vendor
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
