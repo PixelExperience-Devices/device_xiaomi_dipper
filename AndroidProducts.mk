@@ -14,4 +14,8 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_dipper.mk
+    $(LOCAL_DIR)/evolution_dipper.mk
+    
+COMMON_LUNCH_CHOICES := \
+    evolution_dipper-userdebug \
+    evolution_dipper-eng
