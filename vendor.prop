@@ -11,3 +11,6 @@ ro.hardware.gps=brcm
 # NFC
 ro.hardware.nfc_nci=nqx.default
 ro.se.type=eSE,HCE,UICC
+
+# System
+persist.sys.binary_xml=false
