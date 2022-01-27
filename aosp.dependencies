@@ -16,9 +16,9 @@
       "remote": "pixel-devices-blobs"
    },
    {
-      "repository": "kdrag0n/proton-clang",
-      "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+      "repository": "jjpprrrr/prelude-clang",
+      "target_path": "prebuilts/clang/host/linux-x86/clang-prelude",
       "branch": "master",
-      "remote": "github"
+      "remote": "gitlab"
    }
 ]
