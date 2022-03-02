@@ -14,3 +14,6 @@ ro.hardware.gps=brcm
 # NFC
 ro.hardware.nfc_nci=nqx.default
 ro.se.type=eSE,HCE,UICC
+
+# USB
+vendor.usb.product_string=Xiaomi MI 8
