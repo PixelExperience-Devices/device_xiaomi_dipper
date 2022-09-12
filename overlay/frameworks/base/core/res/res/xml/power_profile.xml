@@ -90,6 +90,7 @@
         <value>2476800</value> <!-- 2476 MHz CPU speed -->
         <value>2553600</value> <!-- 2553 MHz CPU speed -->
         <value>2649600</value> <!-- 2649 MHz CPU speed -->
+        <value>2803200</value> <!-- 2803 MHz CPU speed -->
     </array>
 
     <!-- Additional power used by a CPU core from cluster 0 when running at
@@ -140,6 +141,7 @@
         <value>204.14</value> <!-- 2476 MHz CPU speed -->
         <value>223.37</value> <!-- 2553 MHz CPU speed -->
         <value>253.77</value> <!-- 2649 MHz CPU speed -->
+        <value>330.38</value> <!-- 2803 MHz CPU speed -->
     </array>
 
     <!-- Additional power used when screen is ambient mode -->
