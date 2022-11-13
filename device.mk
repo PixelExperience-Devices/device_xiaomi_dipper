@@ -131,7 +131,7 @@ PRODUCT_PACKAGES += \
 
 # Shims
 PRODUCT_PACKAGES += \
-    libpiex_shim
+    libpiex_shim_dipper
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
