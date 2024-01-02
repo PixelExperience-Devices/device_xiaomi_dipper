@@ -5,9 +5,9 @@
       "branch": "thirteen"
    },
    {
-      "repository":  "kernel_xiaomi_polaris",
+      "repository":  "kernel_xiaomi_sdm845",
       "target_path": "kernel/xiaomi/dipper",
-      "branch": "thirteen"
+      "branch": "thirteen-wip"
    },
    {
       "repository":  "vendor_xiaomi_dipper",
