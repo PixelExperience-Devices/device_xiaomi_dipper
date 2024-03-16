@@ -125,10 +125,6 @@ PRODUCT_PACKAGES += \
     se_nq_extn_client \
     libchrome.vendor
 
-# PocketMode
-PRODUCT_PACKAGES += \
-    XiaomiPocketMode
-
 # Secure element
 PRODUCT_PACKAGES += \
     SecureElement
